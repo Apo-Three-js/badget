@@ -1,2 +1,3 @@
 # badget
- 
+
+npm run start
