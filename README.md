@@ -1,3 +1,3 @@
 # badget
 
-npm run startasdasdasd
+npm run 
